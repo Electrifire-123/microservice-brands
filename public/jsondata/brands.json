@@ -1,0 +1,16 @@
+{
+  "brands":[
+    {
+      "name":"Dove",
+      "image":"https://cdn.sanity.io/images/92ui5egz/production/90af7e6b898af6c683f2aceba404d9860b71421e-1920x1080.jpg?rect=1,0,1919,1080&w=750&h=422&fit=crop&auto=format"
+    },
+    {
+      "name":"Sunsilk",
+      "image":"https://cdn.sanity.io/images/92ui5egz/production/a7ea20d8ea0ca0b43124fd3b3e6ff11fd14c78a6-1920x1080.jpg?rect=1,0,1919,1080&w=750&h=422&fit=crop&auto=format"
+    },
+    {
+      "name":"Vaseline",
+      "image":"https://cdn.sanity.io/images/92ui5egz/production/089b5c058cf346b7737ed37aa56401d2902a605c-1920x1080.jpg?rect=1,0,1919,1080&w=750&h=422&fit=crop&auto=format"
+    }
+  ]
+}

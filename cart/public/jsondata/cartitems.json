@@ -1,0 +1,27 @@
+{
+    "cartitems":[
+      {
+        "product_name":"Shampoo",
+        "product_image":"https://m.media-amazon.com/images/I/41v8F1dAiRL._SX522_.jpg",
+        "product_description":"Dove Intense Repair Hair Shampoo 650 ml, Repairs Dry and Damaged Hair, Moisturizing Shampoo for Smooth & Strong Hair - Mild Shampoo for Women & Men",
+        "product_color":"",
+        "product_size":"500 ml",
+        "product_price":"$2"
+      },
+      {
+        "product_name":"Body Wash",
+        "product_image":"https://images-eu.ssl-images-amazon.com/images/I/31zd7geMnNL._SX300_SY300_QL70_FMwebp_.jpg",
+        "product_description":"Dove Deeply Nourishing Body Wash, With Moisturisers For Softer, Smoother Skin, For All Skin Type, 800 ml",
+        "product_color":"",
+        "product_size":"800 ml",
+        "product_price":"$5"
+      },{
+        "product_name":"Bathing Beauty Bar",
+        "product_image":"https://m.media-amazon.com/images/I/51jJq4jToUL._SX522_PIbundle-8,TopRight,0,0_AA522SH20_.jpg",
+        "product_description":"Dove Cream Bathing Beauty Bar with 1/4 Moisturising Cream For Soft, Smooth, Glowing Skin, 125 g (Pack of 8), White",
+        "product_color":"",
+        "product_size":"25 G",
+        "product_price":"$1"
+      }
+    ]
+}
